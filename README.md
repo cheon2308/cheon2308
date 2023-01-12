@@ -27,7 +27,7 @@
 <br>
 
 ### 💫 Algorithm
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pos04118)](https://solved.ac/cjsgusxo95)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsgusxo95)](https://solved.ac/cjsgusxo95)
 
 <br>
 <br>
