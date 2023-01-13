@@ -28,13 +28,12 @@
 
 ### 💫 Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsgusxo95)](https://solved.ac/cjsgusxo95)
-![cjsgusxo95 profile](http://mazandi.herokuapp.com/api?handle=cjsgusxo95&theme=warm)
  <img src="http://mazandi.herokuapp.com/api?handle=cjsgusxo95&theme=warm"/>
 <br>
 <br>
 
 
-<!-- ### 🐈‍⬛ Github Stats
+### 🐈‍⬛ Github Stats
 <div align=left>
  
 [![cheon2308's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjsgusxo95)](https://github.com/cjsgusxo95/github-readme-stats)
