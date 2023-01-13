@@ -36,7 +36,7 @@
 ### 🐈‍⬛ Github Stats
 <div align=left>
  
- ![cheon2308's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheon2308&show_icons=true&theme=buefy)
+ ![cheon2308's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheon2308&show_icons=true&theme=dark)
 <!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheon2308&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
  
  </div>
