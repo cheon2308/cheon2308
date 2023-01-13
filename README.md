@@ -36,8 +36,8 @@
 ### 🐈‍⬛ Github Stats
 <div align=left>
  
- ![cheon2308's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheon2308&show_icons=true&theme=dark)
-<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheon2308&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
+ ![cheon2308's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjsgusxo95&show_icons=true&theme=dark)
+<!--    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjsgusxo95&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
  
  </div>
 
