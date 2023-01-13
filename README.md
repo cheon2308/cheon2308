@@ -28,8 +28,8 @@
 
 ### 💫 Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsgusxo95)](https://solved.ac/cjsgusxo95)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={cjsgusxo95}&theme=warm)
- <img src="http://mazandi.herokuapp.com/api?handle={cjsgusxo95}&theme=warm"/>
+![cjsgusxo95 profile](http://mazandi.herokuapp.com/api?handle=cjsgusxo95&theme=warm)
+ <img src="http://mazandi.herokuapp.com/api?handle=cjsgusxo95&theme=warm"/>
 <br>
 <br>
 
