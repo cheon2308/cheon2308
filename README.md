@@ -36,7 +36,7 @@
 ### 🐈‍⬛ Github Stats
 <div align=left>
  
-[![cheon2308's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheon2308)](https://github.com/cheon2308/github-readme-stats)
+[![cheon2308's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheon2308)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 
 <br>
