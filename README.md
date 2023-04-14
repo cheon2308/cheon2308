@@ -45,12 +45,8 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-FFB266?style=for-the-badge&logo=javascript&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/Ajax-red?style=for-the-badge&logo=Ajax&logoColor=white">
-<img src="https://img.shields.io/badge/Jquery-pink?style=for-the-badge&logo=Jquery&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-green?style=for-the-badge&logo=JWT&logoColor=white">
 <img src="https://img.shields.io/badge/css-FFFF66?style=for-the-badge&logo=css&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
