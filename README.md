@@ -13,7 +13,7 @@
 <!-- 자기소개 끝 -->
 
 
-> <a href="https://cheon2308.tistory.com" > <h2>🌳 <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a> 
+> <a href="https://cheon2308.tistory.com" target="_blank" > <h2>🌳 <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a> 
 >
 > <a href="https://cheon2308.tistory.com" > <h2>📓 <img src="https://img.shields.io/badge/Study Note-181717?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a>
  
