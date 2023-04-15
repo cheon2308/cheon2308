@@ -4,8 +4,15 @@
 <br>
 <div align=center>
 	<h3>👨‍💻Introduction👨‍💻</h3>
-	<p> 안녕하세요! 전자공학과를 전공하였지만 sw 서비스 개발을 하고 싶어 개발자의 길로 뛰어들어왔습니다.</p>
-	<p> 누구나 편하게 사용하는 서비스 개발을 목표로, 새로운 것에 대한 도전을 즐기고, 열정 가득한 신입개발자입니다.</p>
+	<p> 안녕하세요! 전자공학과를 전공, 현재 SW 개발의 길을 즐기고 있는 신입 개발자입니다.</p>
+	<p> 새로운 것에 대한 도전을 원동력으로, '누구나 사용가능한 편리한 서비스' 제공에 가치를 두고 .</p>
+	<p> FE에 대해선 깊게, 타 직무에 대해선 넓게, 하루하루를 기록하며 꾸준히 성장중 입니다👍</p>
+</div>
+
+<div>
+	<h3>👨‍🎓Education</h3>
+	<p>2022.07 ~ 현재 : ssafy 8기 재학 중</p>
+	<p>2014.03 ~ 2021.02 : 동아대학교 전자공학과</p>
 </div>
 
 <div align=center>
@@ -52,16 +59,22 @@
 	
 	<br>
 </div>
+<div align=center>	
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheon2308&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=cheon2308&show_icons=true">
+</div>
+<br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsgusxo95)](https://solved.ac/cjsgusxo95)
+<img src="http://mazandi.herokuapp.com/api?handle={cjsgusxo95}&theme=warm"/>
+	
 <div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheon2308&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=cheon2308&show_icons=true">
+
 
 ![Hyeontae's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=cheon2308)
-
+</div>
 <br>
 
 </div>
