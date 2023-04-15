@@ -13,9 +13,9 @@
 <!-- 자기소개 끝 -->
 
 
-> <a href="https://cheon2308.tistory.com" target="_blank" > <h2>🌳 <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a> 
+> <a href="https://https://www.notion.so/cheon2308/s-8f650b782d5f4c7ea31d26102c3d17ce?pvs=4" > <h2>🌳 <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=notion&logoColor=white" alt="portfolio"/> </h2>  </a> 
 >
-> <a href="https://cheon2308.tistory.com" > <h2>📓 <img src="https://img.shields.io/badge/Study Note-181717?style=for-the-badge&logo=notion&logoColor=white"/> </h2>  </a>
+> <a href="https://cheon2308.tistory.com" > <h2>📓 <img src="https://img.shields.io/badge/Study Note-181717?style=for-the-badge&logo=notion&logoColor=white" alt="study-note"/> </h2>  </a>
  
 <hr>
 
