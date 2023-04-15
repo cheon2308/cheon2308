@@ -1,6 +1,13 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeonTae%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HyeonTae's%20Github!&fontSize=90" />	
 </div>
+<br>
+<div align=center>
+	<h3>👨‍💻Introduction👨‍💻</h3>
+	<p> 안녕하세요! 전자공학과를 전공하였지만 sw 서비스 개발을 하고 싶어 개발자의 길로 뛰어들어왔습니다.</p>
+	<p> 누구나 편하게 사용하는 서비스 개발을 목표로, 새로운 것에 대한 도전을 즐기고, 열정 가득한 신입개발자입니다.</p>
+</div>
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -45,6 +52,9 @@
 	
 	<br>
 </div>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsgusxo95)](https://solved.ac/cjsgusxo95)
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheon2308&layout=compact">
@@ -53,7 +63,5 @@
 ![Hyeontae's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=cheon2308)
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsgusxo95)](https://solved.ac/cjsgusxo95)
+
 </div>
