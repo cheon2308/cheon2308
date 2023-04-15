@@ -8,13 +8,13 @@
 	<p> 새로운 것에 대한 도전을 원동력으로, '누구나 사용가능한 편리한 서비스' 제공에 가치를 두고 .</p>
 	<p> FE에 대해선 깊게, 타 직무에 대해선 넓게, 하루하루를 기록하며 꾸준히 성장중 입니다👍</p>
 </div>
-
-<div>
+<br>
+<div align=center>
 	<h3>👨‍🎓Education</h3>
 	<p>2022.07 ~ 현재 : ssafy 8기 재학 중</p>
 	<p>2014.03 ~ 2021.02 : 동아대학교 전자공학과</p>
 </div>
-
+<br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=Flutter&logoColor=white" />
 	<br>
 
-<br>
+</div>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -59,6 +59,7 @@
 	
 	<br>
 </div>
+<br>
 <div align=center>	
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheon2308&layout=compact">
@@ -71,7 +72,7 @@
 <img src="http://mazandi.herokuapp.com/api?handle={cjsgusxo95}&theme=warm"/>
 	
 <div align=center>
-
+<br>
 
 ![Hyeontae's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=cheon2308)
 </div>
