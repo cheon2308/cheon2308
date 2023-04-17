@@ -53,7 +53,7 @@
 	<a href="https://cheon2308.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="mailto:cjsgusxo95@yermi.co.kr">
+	<a href="mailto:cjsgusxo95@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	
