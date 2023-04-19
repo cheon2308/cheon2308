@@ -47,9 +47,9 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://cheon2308.notion.site/s-8f650b782d5f4c7ea31d26102c3d17ce">
+<!-- 	<a href="https://cheon2308.notion.site/s-8f650b782d5f4c7ea31d26102c3d17ce">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
+	</a> -->
 	<a href="https://cheon2308.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
