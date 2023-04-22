@@ -69,7 +69,7 @@
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjsgusxo95)](https://solved.ac/cjsgusxo95)
-<img src="http://mazandi.herokuapp.com/api?handle=cjsgusxo95&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=cjsgusxo95&theme=warm"/> 
 </div>
 <div align=center>
 <br>
